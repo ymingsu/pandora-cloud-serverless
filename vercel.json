@@ -15,6 +15,6 @@
     }
   ],
   "env": {
-    "PANDORA_SERVER_LISTEN": "true"
+    "PANDORA_SERVER_LISTEN": "false"
   }
 }
